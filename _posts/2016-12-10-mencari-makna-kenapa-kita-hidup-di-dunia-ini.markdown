@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mencari Makna Kenapa Kita Hidup di Dunia ini"
-date:   2016-12-10 10:33:39 +0800
+date:   2016-12-10 16:16:39 +0800 
 categories: opini
 ---
 
