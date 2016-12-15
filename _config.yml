@@ -7,11 +7,11 @@
 
 # Site settings
 title: Bayu Diarsa
-email: bdiarsa@hotmail.com
+email: diarsas@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Selamat datang di Blog pribadi saya yang membahas tentang segala sesuatu yang ada di benak saya. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://diarsa.tigrimigri.com" # the base hostname & protocol for your site
 twitter_username: BAYUdiarsa
 github_username:  diarsa
 
